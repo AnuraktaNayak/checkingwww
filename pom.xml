@@ -30,7 +30,7 @@
 			<configuration>
 				<archive>
 					<manifest>
-						<mainClass>com.test.project.MavenEclipseProject</mainClass>
+						<mainClass>com.test.project.MavenEclipseProject.App</mainClass>
 					</manifest>
 				</archive>
 			</configuration>
