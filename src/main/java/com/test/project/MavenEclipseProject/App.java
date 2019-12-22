@@ -11,7 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         
         long start = System.currentTimeMillis();
-        Thread.sleep(200000)
+        Thread.sleep(200000);
         System.out.println("Sleep time in ms = "+(System.currentTimeMillis()-start));
     }
 }
